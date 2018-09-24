@@ -1,4 +1,5 @@
-# mytodoapp
+# My ToDo App
+Simple ToDo app made with vue, uses Materialize and local storage.
 
 ## Project setup
 ```
